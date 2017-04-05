@@ -1,6 +1,3 @@
 hello! my nema is zhangrongyu i come from guangxi how are you ,today is goodday
 
-<<<<<<< HEAD
-ntnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
-=======
->>>>>>> 43ba432fec6d50fca47f0110926a33703ef415a3
+jjjjjjjjjjjjjjjjjjjjj
